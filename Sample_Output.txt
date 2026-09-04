@@ -1,0 +1,25 @@
+C++ OOP Practical - Sample Output
+
+TEST CASE 1
+Input:
+Initial Balance = 5000
+Deposit = 2000
+Withdraw = 1500
+
+Expected/Actual Final Balance = 5500
+
+TEST CASE 2
+Input:
+Initial Balance = 3000
+Deposit = 1000
+Withdraw = 500
+
+Expected/Actual Final Balance = 3500
+
+TEST CASE 3
+Input:
+Initial Balance = 2000
+Deposit = 100
+Withdraw = 300
+
+Expected/Actual Final Balance = 1800
